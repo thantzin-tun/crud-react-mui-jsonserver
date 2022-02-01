@@ -1,0 +1,52 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "Thant Zin Tun",
+      "roll_no": "4CS-50",
+      "section": "A",
+      "major": "CS",
+      "phone": "09772424732"
+    },
+    {
+      "id": 2,
+      "name": "Mya Aye Aye Kaing",
+      "roll_no": "4CS-12",
+      "section": "A",
+      "major": "CS",
+      "phone": "09972343290"
+    },
+    {
+      "id": 3,
+      "name": "Min Htet Hein",
+      "roll_no": "4CS-23",
+      "section": "B",
+      "major": "CT",
+      "phone": "09772384333"
+    },
+    {
+      "id": 4,
+      "name": "Aung Wai Yan Hein",
+      "roll_no": "4CS-11",
+      "section": "A",
+      "major": "CS",
+      "phone": "09799824333"
+    },
+    {
+      "id": 5,
+      "name": "Kyal Sin",
+      "roll_no": "4CT-3",
+      "section": "A",
+      "major": "CS",
+      "phone": "09799824786"
+    },
+    {
+      "id": 6,
+      "name": "Hnin Oo Shwe Yi",
+      "roll_no": "4CS-23",
+      "major": "CS",
+      "section": "A",
+      "phone": "093453453235"
+    }
+  ]
+}
